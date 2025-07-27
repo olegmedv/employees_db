@@ -2,9 +2,15 @@
   "employees": [
     {
       "id": 1,
-      "name": "Иванов Иван",
-      "position": "Разработчик",
+      "name": "ÐÐ²Ð°Ð½Ð¾Ð² ÐÐ²Ð°Ð½",
+      "position": "Ð Ð°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸Ðº",
       "email": "ivaniv@mail.ru"
+    },
+    {
+      "id": 2,
+      "name": "Петров Петр Петрович",
+      "position": "Не указана",
+      "email": "petr@mail.com"
     }
   ]
 }
