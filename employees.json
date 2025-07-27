@@ -1,0 +1,10 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Иванов Иван",
+      "position": "Разработчик",
+      "email": "ivaniv@mail.ru"
+    }
+  ]
+}
