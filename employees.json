@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Иванов Иван",
+      "position": "Разработчик",
+      "email": "ivaniv@mail.ru"
+    },
+    {
+      "id": 2,
+      "name": "Петров Петр Петрович",
+      "position": "Не указана",
+      "email": "petr@mail.com"
+    },
+    {
+      "id": 3,
+      "name": "Иванова Мария",
+      "position": "Бухгалтер",
+      "email": "masha2077@rambler.ru"
+    },
+    {
+      "id": 4,
+      "name": "Михаил Михайлов",
+      "position": "Не указана",
+      "email": "misha@mashsa.tu"
+    }
+  ]
+}
